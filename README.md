@@ -1,2 +1,3 @@
 
-#To Do application using Redux + React
+#ToDo 
+To Do application using Redux + React
